@@ -523,6 +523,8 @@
   ibm             lt: Lithuanian (IBM LST 1205-92)
   lekp            lt: Lithuanian (LEKP)
   lekpa           lt: Lithuanian (LEKPa)
+  colemak         lt: Lithuanian (Colemak-numeric)
+  colemak         lt: Lithuanian (Colemak-AltGr)
   apostrophe      lv: Latvian (apostrophe variant)
   tilde           lv: Latvian (tilde variant)
   fkey            lv: Latvian (F variant)

@@ -3794,6 +3794,12 @@
             <description>Lithuanian (LEKPa)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>colemak</name>
+            <description>Lithuanian (Colemak-AltGr)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
