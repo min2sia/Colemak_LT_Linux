@@ -3797,7 +3797,7 @@
         <variant>
           <configItem>
             <name>colemak</name>
-            <description>Lithuanian (Colemak-AltGr)</description>
+            <description>Lithuanian (Colemak + numeric LT keys)</description>
           </configItem>
         </variant>
       </variantList>
